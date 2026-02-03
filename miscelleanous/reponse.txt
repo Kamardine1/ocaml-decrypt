@@ -1,0 +1,22 @@
+Est-il raisonnable de tenter une attaque en force brute, c’est à dire de tester tous les mots de passe possibles ?
+Reponse : Non
+Justification : Si on teste tout les combinaisons possibles, cela prendrai enormement de temps (allant par 
+exemple à des milliers d'années et +),vu que certaines mot de passes peuvent aller de 6 à 128 caracteres en longueurs, 
+sachant que les caracteres possibles peuvent etre des chiffres, lettres majuscules ou minuscules, ainsi que de symboles.
+
+Peut-on tenter des attaques en force brute partielles ?
+Reponse : Oui
+Justification : Certaines personnes avec des faibles connaissances en informatique(cybersecurité plus precisement), ne savent pas
+qu'il est mieux de choisir un mot de passe securisé (combinaison de lettre majuscules et minuscules,chiffres , symboles, longueur
+longue) ,et sachant que dans certaines sites mal securisé, ils n'obligent pas à choisir un mot de passe fort, ducoup certaines personnes
+prennent un mot de passe faible et facile à retenir par exemple : 123456 ; donc avec un peu de chance il est possible de reussir,
+avec une attaque brute force partielle (en visant bien evidement les sites qui demandes pas un mot de passe tres securisé).
+
+Quel sous-ensemble ?
+Reponse : les mots de passes simples avec peu de combinaison par exemple "123456" , parfois meme quaund c'est un nom propre "thomas", 
+bien sur si on connait le prenom/nom de la personne, et meme avec une combinaison simple du genre "thomas1234", il est parfois mieux,
+de tester avec "admin" comme mot de passe, car certaines admin prennent cela comme un mot de passe securisé alors qu'il est tres connu
+de nos jours.
+
+
+

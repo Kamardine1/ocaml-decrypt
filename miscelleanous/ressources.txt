@@ -1,0 +1,8 @@
+Site 1 : https://itsocial.fr/contenus/articles-decideurs/la-robustesse-des-mots-de-passe-est-toujours-autant-negligee/ , pour repondre
+au question du hacker.
+
+Site 2 : https://ocaml.org/docs/file-manipulation
+
+Site 3 : https://ocaml.org/manual/5.2/api/Sys.html , pour comprendre Sys.readdir qui permet de lire un repertoire.
+
+Site 4 : https://ocaml.org/manual/5.2/api/List.html (peut etre utile pour les doublons).
